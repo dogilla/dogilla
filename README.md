@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 
+
+<img src="https://previews.123rf.com/images/zsuriel1/zsuriel11709/zsuriel1170900084/86020217-mexico-city-landscape-view.jpg"> 
+
+Hi, I'm Mario! I'm a computer Science student interested in Software Engenering, computational geometry, web development, and blockchain technologies.
 
 <!--
 **dogilla/dogilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
