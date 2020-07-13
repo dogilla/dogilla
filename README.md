@@ -1,8 +1,9 @@
 ## Hi there 
 
-<img src="https://cdn.britannica.com/11/95011-050-04A31F6E/region-Mexico-City.jpg"> 
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"> 
 
 Hi, I'm Mario! I'm a computer Science student interested in Software Engenering, computational geometry, web development, and blockchain technologies.
+
 
 <!--
 **dogilla/dogilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
