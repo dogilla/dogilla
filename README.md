@@ -1,4 +1,3 @@
-## Hi there! I'm Mario! I am a computer Science student interested in Software Engenering, computational geometry, web development, and blockchain technologies.
 
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"> 
