@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"> 
+<img src="https://github.com/dogilla/dogilla/blob/master/dino.gif"> 
 
 
 <!--
